@@ -6,6 +6,7 @@
 // @author       洛天依x64
 // @match        *://chat.tariri.xyz/*
 // @match        *://chat.tariri.xyz:7860/*
+// @match        *://chat.solarisai.xyz/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // ==/UserScript==
