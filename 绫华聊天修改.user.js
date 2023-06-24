@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         绫华聊天修改器
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.1.1
 // @description  try to take over the world!
 // @author       洛天依x64
 // @match        *://chat.tariri.xyz/*
