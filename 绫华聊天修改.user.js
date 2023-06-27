@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         绫华聊天修改器
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      0.4.0
 // @description  try to take over the world!
 // @author       洛天依x64
 // @match        *://chat.tariri.xyz/*
@@ -18,7 +18,7 @@ btn.innerHTML="开始修改，点一下就好";//innerText也可以,区别是inn
 btn.onclick=function(){
     //code
     document.querySelector("#component-6 > label > textarea").disabled=0;
-    document.querySelector("#component-5 > label > textarea").disabled=0;
+    document.querySelector("#component-7 > label > textarea").disabled=0;
     alert("成功");
 }
 btn.style.background="#6cf";
